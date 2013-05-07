@@ -33,10 +33,10 @@ It's based upon their default 404 page! :)
 
     <div class="container">
 
-      <h1>50x</h1>
+      <h1>404</h1>
       <p><strong>Page not found</strong></p>
 
-      <p><em>This wasn't supposed to happen.</em> Sorry!</p>
+      <p><em>This wasn't supposed to happen.</em> It seems that the page you're looking for has gone missing.</p>
 
 
       <div class="divider"></div>
