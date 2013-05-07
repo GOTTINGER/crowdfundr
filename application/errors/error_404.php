@@ -34,11 +34,9 @@ It's based upon their default 404 page! :)
     <div class="container">
 
       <h1>50x</h1>
-      <p><strong>Some kind of internal server error.</strong></p>
+      <p><strong>Page not found</strong></p>
 
-      <p><em>This wasn't supposed to happen.</em>
-	The server or it's software encountered an error (50x) that prevented it from fulfilling this request, please try to refresh this page or try again later.	
-      </p>
+      <p><em>This wasn't supposed to happen.</em> Sorry!</p>
 
 
       <div class="divider"></div>
